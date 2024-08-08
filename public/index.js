@@ -44,8 +44,6 @@ function swapscreen() {
     }
     slides[i - 1].style.display = 'none'
     slides[i].style.display = 'flex'
-
-
 }
 
 swapscreen()

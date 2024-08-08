@@ -246,3 +246,15 @@ body {
 #change{
     height: 80vh; width: 600px;margin-top: 200px;margin-left: 90px;
 }
+.divi{
+    height: 45vh; width: 420px; border-radius: 30px; margin-top: 80px;
+}
+.piczz{
+    height:30vh ; width: 375px; border-radius: 20px;  margin-left: 20px;margin-top: 15px;
+}
+.ww{
+    height: 30vh; width: 375px; border-radius: 20px;
+}
+.img{
+    height: 200px; width: 13vw;
+}
